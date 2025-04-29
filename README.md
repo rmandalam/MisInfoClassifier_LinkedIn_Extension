@@ -1,4 +1,4 @@
-# Misinformation Classifier Browser Extension for LinkedIn
+# LMC: LinkedIn Misinformation Classifier Browser Extension
 ![Alt 2](./front_end_javascript_html_css/images/Readme_Logo.png)
 
 Web Browser Extension for LinkedIn that allows users to highlight &amp; report posts or comments as "Misinformation" to the original poster.
