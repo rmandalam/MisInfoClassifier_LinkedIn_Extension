@@ -1,7 +1,7 @@
 # Misinformation Classifier Browser Extension for LinkedIn
 Web Browser Extension for LinkedIn that allows users to highlight &amp; report posts or comments as "Misinformation" to the original poster.
 
-![Project Logo](./front_end_javascript_html_css/images/Readme_Diagram.png) | ![Alt 2](./front_end_javascript_html_css/images/icon16.png)
+![Project Logo](./front_end_javascript_html_css/images/Readme_Diagram.png) | ![Alt 2](./front_end_javascript_html_css/images/icon128.png)
 
 ## Project FAQs
 
@@ -23,34 +23,28 @@ Our project primarily is intended for LinkedIn users & groups who post content o
 
 - Equipping these groups with an accessible fact-checking and correction tool helps preserve the integrity of their communications and maintain public trust.
 
-**5) What value does this project provide to solve the problem?**  
-- **Instant Classification**:
-- Highlight any text on LinkedIn and get an immediate “misinformation” or “OK” verdict with a confidence score.  
+**5) What value does this project provide to solve the problem?**
 
+**Instant Classification**:
+- Highlight any text on LinkedIn and get an immediate “misinformation” or “OK” verdict with a confidence score.  
 **Seamless Corrections**: 
 - Submit official corrections and context directly from the extension, reducing friction.
-
 **Credibility Protection**
 - Helps nonprofits proactively manage their online reputation and enhance stakeholder confidence.
-
 **Operational Efficiency**:
 - Eliminates manual fact-checking workflows and centralizes correction tracking.
 
-**6) Future Work & Considerations**  
+**6) Future Work & Considerations**
+
 **Model Enhancements**:
 - Fine-tune existing classifier or add new ones (hate speech, spam, outdated info). 
-
 **Platform Expansion**:
 - Extend support to Twitter, Facebook, Instagram, and other channels.
-
 **Automated Posting**:
 - Integrate with social APIs for one-click correction publishing.  
-
 **Admin Dashboard**:
 - Build a web interface for analytics, correction history, and user management.  
-
 **Multilingual Support**:
 - Enable classification and corrections in multiple languages.  
-
 **Offline Client**:
 - Develop a standalone desktop app (Qt/Electron) for environments without browser extension support.
