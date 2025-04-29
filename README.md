@@ -1,7 +1,9 @@
 # Misinformation Classifier Browser Extension for LinkedIn
+![Alt 2](./front_end_javascript_html_css/images/Readme_Logo.png)
+
 Web Browser Extension for LinkedIn that allows users to highlight &amp; report posts or comments as "Misinformation" to the original poster.
 
-![Project Logo](./front_end_javascript_html_css/images/Readme_Diagram.png) | ![Alt 2](./front_end_javascript_html_css/images/Readme_Logo.png)
+![Project Logo](./front_end_javascript_html_css/images/Readme_Diagram.png)
 
 ## Project FAQs
 
